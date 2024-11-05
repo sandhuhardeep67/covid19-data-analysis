@@ -6,18 +6,18 @@ Initial Steps: The journey began with Exploratory Data Analysis (EDA) using SQL 
 
 Data Insights Extraction: Utilizing SQL queries like Joins, Common Table Expressions (CTEs), temporary tables, and views, I derived crucial insights from the dataset. The analysis focused on global infection rates, total deaths, and vaccination statistics.
 
-Dashboard Creation: Leveraging Power BI, I created intuitive and impactful dashboards to visualize the data, providing clear insights at a glance.
+Dashboard Creation: Leveraging Power BI, I created intuitive and impactful dashboard to visualize the data, providing clear insights at a glance.
 
 Key Features
 Thorough Data Cleaning: Effective management of raw data, including handling null values and unnecessary data.
 
 Insightful SQL Queries: Advanced SQL techniques to extract meaningful information from the dataset.
 
-Visual Dashboards: Power BI dashboards offering powerful and simple insights to help understand the data better.
+Visual Dashboards: Power BI dashboard offering powerful and simple insights to help understand the data better.
 
 Technologies Used
 SQL (SSMS): For data cleaning and analysis
 
-Power BI: For creating dashboards
+Power BI: For creating dashboard
 
 Python & Excel: Additional tools for data manipulation and visualization
